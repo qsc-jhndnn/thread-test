@@ -1,4 +1,4 @@
-import { expose } from "threads/worker"
+import { expose } from "threads"
 import sha256 from "js-sha256"
 
 expose({
